@@ -4,4 +4,4 @@ A sleek, responsive Flutter music player featuring a frosted glass aesthetic, ga
 
 | Now Playing Screen 
 | --- | --- |
-| <img src="snapshots/output.mp4" width="320" />
+| <img src="output.mp4" width="320" />
